@@ -1,2 +1,6 @@
 https://git-scm.com/download/win
+<<<<<<< HEAD
 this is link to create a git hub acccount 
+=======
+some changes done in to the local resository
+>>>>>>> 6fc128ffd1abde784ff82217772703aa617f984b
